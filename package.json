@@ -1,0 +1,26 @@
+{
+  "name": "webvisualizer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "",
+    "cheerio": "",
+    "express": "",
+    "json-stringify-safe": "^5.0.1",
+    "node-fetch": "^3.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stw-2023/web-visualizer---backend-stw-b4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stw-2023/web-visualizer---backend-stw-b4/issues"
+  },
+  "homepage": "https://github.com/stw-2023/web-visualizer---backend-stw-b4#readme",
+  "description": ""
+}
